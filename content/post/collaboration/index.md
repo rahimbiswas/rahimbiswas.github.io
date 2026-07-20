@@ -10,7 +10,7 @@ featured: false
 ---
 Hello, fellow ML and HCI enthusiasts!
 
-I'm looking for team members for collaborative works on ML and HCI. Our works will be related to ML and HCI that cover various aspects of machine learning and HCI, offers a fantastic opportunity to apply our skills to real-world problems, innovate solutions, and even publish our findings.
+I'm looking for passionate team members for collaborative research in Density Functional Theory (DFT) and Computational Materials Science. Our work focuses on discovering novel materials with exciting electronic, magnetic, optical, and spintronic properties using first-principles calculations. This is a great opportunity to contribute to impactful research, develop new skills, and publish in high-quality international journals.
 
 ## Tasks Overview
 We will surveyed and interviewed people to get data on particular problems and then apply ml related solutions. 
