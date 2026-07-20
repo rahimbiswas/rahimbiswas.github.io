@@ -7,4 +7,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 ---
-**A. A. Biswas**, M. S. Zulfiker, M. M. Rahman, M. R. Jani, and M. M. Anwar, “Data Privacy and Security Analysis for Mental Health Chatbot Applications,” 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025), Melbourne, Australia, March, 2025.
+**Md. Rahim Biswas**, Mst. Shamima Khanom, Basanti Banik, Md. Rony Hossain, Farid Ahmed, “First-
+Principles Investigation of Semiconducting Cubic ASiO3 (A = P, As, Sb, Bi) Perovskites for Photovoltaic,
+High-Temperature, and Optoelectronic Applications,” Physica B: Condensed Matter (Elsevier), April, 2026.
