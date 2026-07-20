@@ -35,6 +35,6 @@ Contribute to Academia: Participate in curriculum development, departmental acti
 
 ## Next Steps
 
-If your institution is looking for a dedicated and enthusiastic Physics Lecturer, or if you know of opportunities that match my background, I would be delighted to connect. Please feel free to contact me at mdrahimbiswas.ju@gmail.com to discuss potential opportunities.
+If your institution is looking for a dedicated and enthusiastic Physics Lecturer, or if you know of opportunities that match my background, I would be delighted to connect. Please feel free to contact me at (mdrahimbiswas.ju@gmail).com to discuss potential opportunities.
 
 Thank you for your time and consideration. I look forward to contributing to excellence in teaching, research, and academic service.
