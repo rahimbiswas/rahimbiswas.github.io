@@ -1,5 +1,5 @@
 ---
-title: Seeking PhD Opportunities (Fall 2025)
+title: Seeking Job Opportunities (Lecturer)
 date: '2024-09-01'
 # Is this an unpublished draft?
 draft: false
@@ -7,34 +7,34 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 ---
-Hello, fellow researchers and academic mentors!
+Hello, fellow researchers and academic professionals!
 
-I am actively seeking PhD opportunities where I can contribute to and deepen my understanding of Artificial Intelligence (AI), Predictive Modeling, and Healthcare. My background and experiences have solidified my passion for these fields, and I am eager to embark on a rigorous research journey that pushes the boundaries of knowledge in AI-driven healthcare solutions.
+I am actively seeking Lecturer positions in Physics where I can contribute to teaching, research, and academic development. My academic background in Physics and research experience in Density Functional Theory (DFT) and Computational Materials Science have strengthened my passion for both education and scientific research. I am eager to inspire students while pursuing impactful research in condensed matter physics and materials science.
 
 ## My Research Interests
 My primary research interests include:
 
-Predictive Modeling: Developing advanced AI algorithms for predictive analytics to solve complex problems in healthcare.
-Healthcare Systems: Exploring how AI can enhance diagnostics, treatment planning, and personalized care to improve patient outcomes.
-Interdisciplinary Applications: Leveraging AI techniques to address real-world healthcare challenges, with a focus on predictive analytics and personalized medicine.
+Density Functional Theory (DFT): First-principles investigation of the structural, electronic, magnetic, mechanical, optical, and thermal properties of advanced materials.
+Computational Materials Science: Designing and discovering novel materials for spintronics, optoelectronics, and energy-related applications.
+Condensed Matter Physics: Understanding the fundamental physical properties of functional materials through computational approaches.
 
 ## What I Bring to the Table
 
-- Research Experience: I have led and contributed to projects where AI and predictive models were applied to healthcare challenges. This experience has given me a strong foundation in both theoretical and applied AI research.
-- Collaborative Spirit: I thrive in collaborative environments and have experience working with interdisciplinary teams to achieve impactful research outcomes.
-Technical Skills: Proficient in Python, TensorFlow, PyTorch, and other AI tools, with experience in data preprocessing, model development, evaluation, and clinical data analysis.
-- Publication Track: I have co-authored papers in conferences and journals, showcasing my ability to contribute to advancing AI-driven healthcare research.
+-Research Experience: Hands-on experience in first-principles calculations, computational materials modeling, data analysis, and scientific writing.
+-Teaching Commitment: Passionate about delivering engaging lectures, mentoring students, and creating an effective learning environment.
+-Technical Skills: Familiar with DFT software, computational methods, data visualization, scientific programming, and LaTeX for academic writing.
+-Publication Goals: Actively involved in research with the aim of publishing in reputable international journals and contributing to the scientific community.
 
 ## What I Am Looking For
 
-I am seeking a PhD position where I can:
+I am seeking a Lecturer position where I can:
 
-Engage in Cutting-Edge Research: Opportunities to work on innovative projects at the intersection of AI and healthcare, pushing the boundaries of predictive modeling and patient care technologies.
-Mentorship and Guidance: Access to a supportive academic environment where I can learn from experienced researchers and faculty in AI and healthcare domains.
-Academic Community: Being part of a vibrant academic community that values interdisciplinary research, collaboration, and innovation.
+Teach and Mentor: Inspire undergraduate and graduate students through high-quality teaching and academic guidance.
+Conduct Research: Continue research in computational physics and materials science while developing collaborative research projects.
+Contribute to Academia: Participate in curriculum development, departmental activities, and interdisciplinary research collaborations.
 
 ## Next Steps
-Next Steps
-If you are looking for a dedicated and passionate researcher to join your team or if you know of any opportunities that align with my interests, I would love to connect. Please reach out to me at (alaminbiswas.cse@gmail.com) to discuss potential opportunities or collaborations.
 
-Thank you for considering my application. I look forward to contributing to the exciting field of AI and predictive modeling in healthcare through a PhD program!
+If your institution is looking for a dedicated and enthusiastic Physics Lecturer, or if you know of opportunities that match my background, I would be delighted to connect. Please feel free to contact me at mdrahimbiswas.ju@gmail.com to discuss potential opportunities.
+
+Thank you for your time and consideration. I look forward to contributing to excellence in teaching, research, and academic service.
