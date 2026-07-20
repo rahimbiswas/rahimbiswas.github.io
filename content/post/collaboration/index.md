@@ -8,9 +8,10 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 ---
-Hello, fellow ML and HCI enthusiasts!
+Hello, fellow **DFT and Computational Materials Science enthusiasts**!
 
-I'm looking for passionate team members for collaborative research in Density Functional Theory (DFT) and Computational Materials Science. Our work focuses on discovering novel materials with exciting electronic, magnetic, optical, and spintronic properties using first-principles calculations. This is a great opportunity to contribute to impactful research, develop new skills, and publish in high-quality international journals.
+I'm looking for team members for collaborative research in Density Functional Theory (DFT) and Computational Materials Science. Our work will focus on the first-principles investigation of novel materials. This is a fantastic opportunity to strengthen our research skills, contribute to exciting discoveries, and publish our findings in reputable international journals.
+
 
 ## Tasks Overview
 We will surveyed and interviewed people to get data on particular problems and then apply ml related solutions. 
