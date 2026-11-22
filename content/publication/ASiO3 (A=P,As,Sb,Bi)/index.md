@@ -1,7 +1,8 @@
 
 ---
-title: "First-principles investigation of semiconducting cubic ASiO3 (A = P, As, Sb, Bi) perovskites for photovoltaic, high-temperature, and optoelectronic applications"
+title: 'First-principles investigation of semiconducting cubic ASiO3 (A = P, As, Sb, Bi) perovskites for photovoltaic, high-temperature, and optoelectronic applications'
 
+# Authors
 authors:
   - admin
   - Mst. Shamima Khanom
@@ -9,15 +10,23 @@ authors:
   - Md. Rony Hossain
   - Farid Ahmed
 
+# Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+
 date: '2026-04-21T00:00:00Z'
 
 doi: 'https://doi.org/10.1016/j.physb.2026.418695'
 
+# Schedule page publish date (NOT publication's date).
+# publishDate: '2026-11-22T00:00:00Z'
+
+# Publication type.
 publication_types: ['article-journal']
 
+# Publication name and optional abbreviated publication name.
 publication: 'Physica B: Condensed Matter, 736, 418695 (2026)'
-
-publication_short: 'Physica B: Condensed Matter (2026)'
+publication_short: 'Physica B: Condensed Matter, 2026'
 
 abstract: >-
   Silicon-based perovskites have emerged as promising materials for
@@ -48,6 +57,7 @@ abstract: >-
   compounds emerge as potential materials for photovoltaic,
   optoelectronic, and high-temperature applications.
 
+# Summary. An optional shortened abstract.
 summary: >-
   A first-principles DFT investigation of the structural, mechanical,
   electronic, optical, and thermal properties of cubic ASiO3
@@ -66,18 +76,30 @@ tags:
   - Thermal Properties
   - Photovoltaic Materials
   - Optoelectronics
+  - High-Temperature Applications
+  - Thermal Barrier Coatings
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (optional)
+# links:
+# - name: Custom Link
+#   url: https://example.org
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2590005622000534'
-
 url_source: 'https://doi.org/10.1016/j.physb.2026.418695'
 
 # Featured image
+# Add an image named featured.jpg/png to your publication folder.
 image:
-  caption: 'Crystal structures of cubic ASiO3 (A = P, As, Sb, Bi) perovskites'
+  caption: 'Crystal structures and calculated physical properties of cubic ASiO3 (A = P, As, Sb, Bi) perovskites.'
   focal_point: 'Center'
   preview_only: false
 
-# Associated projects
+# Associated Projects (optional).
 projects: []
 
+# Slides (optional).
+# slides: example
 ---
