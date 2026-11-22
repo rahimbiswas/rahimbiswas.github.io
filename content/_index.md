@@ -205,8 +205,6 @@ sections:
           tag: Machine Learning
         - name: Deep Learning
           tag: Deep Learning
-        - name: Natural Language Processing
-          tag: Natural Language Processing
         - name: Human-Computer Interaction
           tag: Human-Computer Interaction
         - name: Healthcare
