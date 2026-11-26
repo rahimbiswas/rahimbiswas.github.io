@@ -31,6 +31,9 @@ bio: My research interests include Machine Learning, Deep Learning, Natural Lang
 interests:
   - Computational Physics
   - DFT
+  - Spintronics
+  - Optoelectronics
+  - Solar-cell
   - Machine Learning
 
 # Education to show in About widget
